@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+ "$basetexture" "vgui\maps\menu_thumb_rats_tequila_b01"
+ "$translucent" 1
+ "$ignorez" 1
+ "$vertexcolor" 1
+} 
+
